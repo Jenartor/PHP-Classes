@@ -18,13 +18,11 @@
  * Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
  */
 
-    class textfield{
-        var $placeholder;
-        var $id;
-        var $name;
-        
-        public function __construct() {
-            
-        }
-    }
-
+/**
+ * Description of newPHPClass
+ *
+ * @author Daniel
+ */
+class newPHPClass {
+    //put your code here
+}
